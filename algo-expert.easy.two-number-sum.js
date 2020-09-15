@@ -1,3 +1,5 @@
+//this one returns the numbers that sum to the target
+
 function twoNumberSum(array, targetSum) {
 	let output = [];
 	let dict = {};
